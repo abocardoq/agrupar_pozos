@@ -1,0 +1,9 @@
+pandas
+plotly
+pycaret
+streamlit
+yfinance
+pandas-datareader
+prophet
+plotly
+

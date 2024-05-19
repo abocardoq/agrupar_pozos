@@ -1,8 +1,8 @@
 ---
-title: Agrupar Pozos
-emoji: 🏢
-colorFrom: indigo
-colorTo: yellow
+title: Coordenadas Pozos
+emoji: 👀
+colorFrom: pink
+colorTo: purple
 sdk: streamlit
 sdk_version: 1.34.0
 app_file: app.py
