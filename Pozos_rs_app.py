@@ -1,4 +1,3 @@
-# A.P.
 #importar librerias
 import streamlit as st
 import pandas as pd
